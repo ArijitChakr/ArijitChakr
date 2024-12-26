@@ -11,9 +11,9 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![React](https://img.icons8.com/plasticine/100/000000/react.png)
 ![TypeScript](https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000)
-![NodeJs](https://img.icons8.com/plasticine/100/000000/react.png)
+![NodeJs](https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=000000)
 ![tailwindCSS](https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000)
 ![ExpressJS](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000)
-![ExpressJS](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
+![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
 
 
