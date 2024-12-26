@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Arijit!
 
-<!--
-**ArijitChakr/ArijitChakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer 
+🎨 Skills: HTML, CSS, JavaScript, React  
+🌱 Currently learning advanced web development techniques  
+📫 Connect with me: [Linkdin](https://www.linkedin.com/in/arijitchakr/)
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![React](https://img.icons8.com/plasticine/100/000000/react.png)
+![TypeScript](https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000)
+![NodeJs](https://img.icons8.com/plasticine/100/000000/react.png)
+![tailwindCSS](https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000)
+![ExpressJS](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000)
+![ExpressJS](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
