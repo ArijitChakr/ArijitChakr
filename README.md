@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arijit!
 
 💻 Aspiring Web Developer 
-🎨 Skills: HTML, CSS, JavaScript, React  
+🎨 Skills: HTML, CSS, JavaScript, React, TypeScript, NodeJS, Websockets, TailwindCSS, BootstrapCSS
 🌱 Currently learning advanced web development techniques  
 📫 Connect with me: [Linkdin](https://www.linkedin.com/in/arijitchakr/)
 
